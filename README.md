@@ -2,7 +2,7 @@
 
 Являюсь студенткой Нетологии и технического вуза.
 
-<img src="photo.jpg" width="180">
+<img src="photo.jpg" width="150">
 
 Мои увлечения:
 * Написание кода на Python, С#, Matlab
